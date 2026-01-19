@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# MacOS / system
+.DS_Store
+Thumbs.db
+
+# IDE / PyCharm
+.idea/
+*.iml
+
+# Data files (optional: jeśli chcesz je śledzić, usuń te linie)
+*.arff
+
+# Output / plots
+plots/
+*.jpg
+*.jpeg
+*.pdf
+
+# Jupyter Notebook checkpoints (jeśli używasz)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Other temp files
+*.tmp
+*.bak
